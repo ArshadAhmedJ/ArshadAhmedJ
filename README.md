@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 DECRYPTING PROFILE
+##  DECRYPTING PROFILE
 
 ```bash
 arshad@matrix:~$ whoami
@@ -21,19 +21,19 @@ arshad@matrix:~$ load_modules
 ✔ Product Development
 
 arshad@matrix:~$ status
-SYSTEM READY 🚀
+SYSTEM READY 
 ```
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-* 🔭 Building **AI-powered automation systems**
-* 🤖 Working with **LLMs, Ollama, and local AI models**
-* 🐳 Creating **Dockerized production-ready applications**
-* 🌐 Developing **scalable Full Stack web platforms**
-* 📈 Focused on **real-world products & SaaS**
-* 🧠 Exploring **Agentic AI, Workflow Automation, and DevOps**
+*  Building **AI-powered automation systems**
+*  Working with **LLMs, Ollama, and local AI models**
+*  Creating **Dockerized production-ready applications**
+*  Developing **scalable Full Stack web platforms**
+*  Focused on **real-world products & SaaS**
+*  Exploring **Agentic AI, Workflow Automation, and DevOps**
 
 ---
 
@@ -83,13 +83,13 @@ SYSTEM READY 🚀
 
 ---
 
-# ⚡ Current Focus
+#  Current Focus
 
-* 🔥 Prompt-to-Docker Automation Engine
-* 🤖 Agentic AI & Autonomous Workflows
-* 🧩 AI-powered Developer Tools
-* 📦 SaaS & Product Engineering
-* 🌍 Building scalable systems for global users
+*  Prompt-to-Docker Automation Engine
+*  Agentic AI & Autonomous Workflows
+*  AI-powered Developer Tools
+*  SaaS & Product Engineering
+*  Building scalable systems for global users
 
 ---
 
